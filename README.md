@@ -4,5 +4,5 @@ Transforms core data in swift into a simple and mess free experience
 //Save CoreData
 Storage().saveCoreData("Save This", forKey: "newKey")
 
-//Reload CoreData
+//Load CoreData
 Storage().loadCoreData(forKey: "newKey"))
