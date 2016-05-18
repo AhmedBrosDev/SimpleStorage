@@ -1,8 +1,8 @@
 # SimpleStorage
 Transforms core data in swift into a simple and mess free experience
 
-# Save CoreData
+# Save 
 Storage().saveCoreData("Save This", forKey: "newKey")
 
-# Load CoreData
+# Load 
 Storage().loadCoreData(forKey: "newKey"))
