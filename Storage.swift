@@ -3,7 +3,7 @@
 //  Grade Calculator
 //
 //  Created by M. Ahmed on 9/10/15.
-//  Copyright (c) 2015 Syheed Ahmed. All rights reserved.
+//  Copyright (c) 2015 M. Ahmed. All rights reserved.
 
 //Allows for simple core data save and load
 //Save CoreData
